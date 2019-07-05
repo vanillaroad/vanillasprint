@@ -16,9 +16,8 @@
   - 라이브러리 관련 문서 작성
   - REST API or GUI로 필요로 하는 function 선택 후 dynamic 하게 bundle 생성 기능 제공
   - test case 작성
-
+  
 - Track B
-  - 
 
 - Track C
 
