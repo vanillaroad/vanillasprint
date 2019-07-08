@@ -17,7 +17,8 @@
   - REST API or GUI로 필요로 하는 function 선택 후 dynamic 하게 bundle 생성 기능 제공
   - test case 작성
   
-- Track B
+- Track B : "33 Concepts Every JavaScript Developer Should Know" 정리하기
+  - 매주 **최소** 한 주제씩 해당 아티클들을 읽고 정리해서 이해한 것들을 설명해보기
 
 - Track C
 
